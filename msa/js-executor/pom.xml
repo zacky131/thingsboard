@@ -59,7 +59,7 @@
             <plugin>
                 <groupId>com.github.eirslett</groupId>
                 <artifactId>frontend-maven-plugin</artifactId>
-                <version>1.7.5</version>
+                <version>1.11.0</version>
                 <configuration>
                     <installDirectory>target</installDirectory>
                     <workingDirectory>${basedir}</workingDirectory>
@@ -71,8 +71,8 @@
                             <goal>install-node-and-yarn</goal>
                         </goals>
                         <configuration>
-                            <nodeVersion>v12.16.1</nodeVersion>
-                            <yarnVersion>v1.22.4</yarnVersion>
+                            <nodeVersion>v15.5.0</nodeVersion>
+                            <yarnVersion>1.22.5</yarnVersion>
                         </configuration>
                     </execution>
                     <execution>
@@ -149,7 +149,7 @@
                     <plugin>
                         <groupId>com.github.eirslett</groupId>
                         <artifactId>frontend-maven-plugin</artifactId>
-                        <version>1.7.5</version>
+                        <version>1.11.0</version>
                         <configuration>
                             <installDirectory>target</installDirectory>
                             <workingDirectory>${basedir}</workingDirectory>
