@@ -67,7 +67,7 @@
 
     <build>
         <pluginManagement>
-            <plugins>
+            <!-- <plugins>
                 <plugin>
                     <artifactId>maven-assembly-plugin</artifactId>
                     <configuration>
@@ -81,7 +81,7 @@
                         </descriptorRefs>
                     </configuration>
                 </plugin>
-            </plugins>
+            </plugins> -->
         </pluginManagement>
     </build>
 
