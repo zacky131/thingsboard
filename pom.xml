@@ -484,7 +484,7 @@
                                 </execution>
                             </executions>
                         </plugin>
-                        <!-- <plugin>
+                        <plugin>
                             <groupId>org.apache.maven.plugins</groupId>
                             <artifactId>maven-assembly-plugin</artifactId>
                             <configuration>
@@ -502,7 +502,7 @@
                                     </goals>
                                 </execution>
                             </executions>
-                        </plugin> -->
+                        </plugin>
                         <plugin>
                             <groupId>org.apache.maven.plugins</groupId>
                             <artifactId>maven-install-plugin</artifactId>
@@ -564,11 +564,11 @@
                     <artifactId>maven-jar-plugin</artifactId>
                     <version>3.0.2</version>
                 </plugin>
-                <!-- <plugin>
+                <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-assembly-plugin</artifactId>
                     <version>3.0.0</version>
-                </plugin> -->
+                </plugin>
                 <plugin>
                     <groupId>org.springframework.boot</groupId>
                     <artifactId>spring-boot-maven-plugin</artifactId>
