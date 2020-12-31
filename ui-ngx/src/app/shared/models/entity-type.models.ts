@@ -1,5 +1,5 @@
 ///
-/// Copyright © 2016-2020 The Thingsboard Authors
+/// Copyright © 2020 SOLTEKNO.COM
 ///
 /// Licensed under the Apache License, Version 2.0 (the "License");
 /// you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@ import { TenantId } from './id/tenant-id';
 import { BaseData, HasId } from '@shared/models/base-data';
 
 ///
-/// Copyright © 2016-2019 The Thingsboard Authors
+/// Copyright © 2016-2019 SOLTEKNO.COM
 ///
 /// Licensed under the Apache License, Version 2.0 (the "License");
 /// you may not use this file except in compliance with the License.
